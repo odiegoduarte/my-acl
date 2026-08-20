@@ -1,0 +1,9 @@
+/logs
+/cache
+/tmp
+/build
+/teste
+tmp.txt
+.env
+.env.local
+*.log
