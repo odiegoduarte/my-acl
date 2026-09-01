@@ -14,6 +14,11 @@ O objetivo é apenas manter uma base de referência, mantida de forma comunitár
 
 ```
 ├── 📁 ACLs
+│   └── 📁 Streaming
+│       ├── 📄 Netflix_url.txt
+│       ├── 📄 Spotify_url.txt
+│       ├── 📄 Twitch_url.txt
+│       └── 📄 Youtube_url.txt
 ├── ⚙️ .gitignore
 ├── 📄 LICENSE
 └── 📝 README.md
