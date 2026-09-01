@@ -1,0 +1,9 @@
+youtube.com
+.youtube.com
+.googleapis.com
+.googlevideo.com
+.gstatic.com
+ytimg.com
+.ggpht.com
+accounts.google.com
+static.doubleclick.net
