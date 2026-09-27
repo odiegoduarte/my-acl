@@ -1,0 +1,12 @@
+chat.com
+chatgpt.com
+.chatgpt.com
+openai.com
+.openai.com
+.oaistatic.com
+.oaistatsig.com
+openai-static.com
+s.gravatar.com
+i1.wp.com
+.oaiusercontent.com
+auth0.com

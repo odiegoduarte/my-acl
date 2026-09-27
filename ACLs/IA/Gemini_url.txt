@@ -1,0 +1,14 @@
+gemini.google.com
+.gemini.google.com
+gemini.gstatic.com
+gstatic.com
+.gstatic.com
+accounts.google.com #Liberação de Login
+.googleusercontent.com
+apis.google.com
+.googleapis.com
+.clients6.google.com
+.clients2.google.com
+google.com # Liberação reCAPTCHA Google
+googletagmanager.com
+google-analytics.com

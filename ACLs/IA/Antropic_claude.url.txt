@@ -1,0 +1,5 @@
+claude.ai
+claude.com
+.anthropic.com
+a-cdn.anthropic.com
+assets-proxy.anthropic.com

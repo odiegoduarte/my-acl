@@ -1,0 +1,10 @@
+deepseek.com
+.deepseek.com
+.deepseeksvc.com
+static.guance.com
+.volccdn.com
+challenges.cloudflare.com
+.hcaptcha.com
+accounts.google.com #Login Google
+.googleusercontent.com #Login Google
+.gstatic.com #Login Google
