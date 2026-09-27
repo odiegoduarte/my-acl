@@ -1,0 +1,6 @@
+wetransfer.net
+wetransfer.com
+.wetransfer.com
+cdn.wetransfer.com
+snowplow.wetransfer.com
+api.lab.amplitude.com
