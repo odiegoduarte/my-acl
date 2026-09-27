@@ -1,0 +1,7 @@
+accounts.google.com
+oauthaccountmanager.googleapis.com
+oauth2.googleapis.com
+ogs.google.com
+securetoken.googleapis.com
+myaccount.google.com
+ogs.google.com.br
