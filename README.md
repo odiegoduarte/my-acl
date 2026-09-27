@@ -13,13 +13,47 @@ O objetivo é apenas manter uma base de referência, mantida de forma comunitár
 #### 📁 Estrutura do Repositório
 
 ```
+├── 📁 .github
+│   └── ⚙️ FUNDING.yml
 ├── 📁 ACLs
+│   ├── 📁 Acesso_Remoto
+│   │   ├── 📄 Anydesk_url.txt
+│   │   └── 📄 TeamViewer_url.txt
+│   ├── 📁 Auth_2FA
+│   │   └── 📄 Google_Auth.txt
+│   ├── 📁 Banco
+│   ├── 📁 CA
+│   │   ├── 📄 DigiCert_url.txt
+│   │   ├── 📄 GlobalSign_url.txt
+│   │   └── 📄 LetsEncrypts_url.txt
+│   ├── 📁 Comunicação
+│   │   ├── 📄 Whatsapp_url.txt
+│   │   └── 📄 Zoom_Meeting_url.txt
+│   ├── 📁 DVR-NVR
+│   │   └── 📄 Intelbras_url.txt
+│   ├── 📁 Desenvolvimento
+│   │   └── 📄 Android_Studio_url.txt
+│   ├── 📁 E-commerce
+│   │   └── 📄 Mercado_Livre_url.txt
+│   ├── 📁 File_Transfer
+│   │   └── 📄 Wetransfer_url.txt
+│   ├── 📁 Games
+│   │   └── 📄 Steam_url.txt
+│   ├── 📁 IA
+│   │   ├── 📄 Antropic_claude.url.txt
+│   │   ├── 📄 ChatGPT_url.txt
+│   │   ├── 📄 DeepSeek_url.txt
+│   │   └── 📄 Gemini_url.txt
+│   ├── 📁 Redes_Sociais
+│   │   ├── 📄 Instagram_url.txt
+│   │   └── 📄 Tiktok_url.txt
 │   └── 📁 Streaming
 │       ├── 📄 Netflix_url.txt
 │       ├── 📄 Spotify_url.txt
 │       ├── 📄 Twitch_url.txt
 │       └── 📄 Youtube_url.txt
 ├── ⚙️ .gitignore
+├── 📝 CHANGELOG.MD
 ├── 📄 LICENSE
 └── 📝 README.md
 ```
