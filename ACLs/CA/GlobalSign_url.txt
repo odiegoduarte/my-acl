@@ -1,0 +1,2 @@
+ocsp.globalsign.com
+crl.globalsign.com
