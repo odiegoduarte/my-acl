@@ -1,0 +1,10 @@
+android.com
+android.apis.google.com
+android.clients.google.com
+android.googleapis.com
+developer.android.com
+maven.google.com
+dl.google.com
+.apis.google.com
+.googleapis.com
+.gstatic.com
