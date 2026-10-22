@@ -22,6 +22,7 @@ O objetivo é apenas manter uma base de referência, mantida de forma comunitár
 │   ├── 📁 Auth_2FA
 │   │   └── 📄 Google_Auth.txt
 │   ├── 📁 Banco
+│   │   └── 📄 XP_Investimentos.url.txt
 │   ├── 📁 CA
 │   │   ├── 📄 DigiCert_url.txt
 │   │   ├── 📄 GlobalSign_url.txt
