@@ -1,0 +1,8 @@
+linkedin.com
+static.licdn.com
+.linkedin.com
+ponf.linkedin.com
+media.licdn.com
+.licdn.com
+accounts.google.com
+edge-auth.microsoft.com
