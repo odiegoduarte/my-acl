@@ -1,0 +1,7 @@
+.auramind.ai
+app.auramind.ai
+api.auramind.ai
+static.hotjar.com
+accounts.google.com
+cognito-idp.us-east-1.amazonaws.com
+.ingest.us.sentry.io
