@@ -41,11 +41,13 @@ O objetivo é apenas manter uma base de referência, mantida de forma comunitár
 │   │   └── 📄 Steam_url.txt
 │   ├── 📁 IA
 │   │   ├── 📄 Antropic_claude.url.txt
+│   │   ├── 📄 AuraMind_url.txt
 │   │   ├── 📄 ChatGPT_url.txt
 │   │   ├── 📄 DeepSeek_url.txt
 │   │   └── 📄 Gemini_url.txt
 │   ├── 📁 Redes_Sociais
 │   │   ├── 📄 Instagram_url.txt
+│   │   ├── 📄 Linkedin_url.txt
 │   │   └── 📄 Tiktok_url.txt
 │   └── 📁 Streaming
 │       ├── 📄 Netflix_url.txt
@@ -53,7 +55,6 @@ O objetivo é apenas manter uma base de referência, mantida de forma comunitár
 │       ├── 📄 Twitch_url.txt
 │       └── 📄 Youtube_url.txt
 ├── ⚙️ .gitignore
-├── 📝 CHANGELOG.MD
 ├── 📄 LICENSE
 └── 📝 README.md
 ```
