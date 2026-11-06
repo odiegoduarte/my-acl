@@ -1,0 +1,8 @@
+ava.ana.gov.br
+vlibras.gov.br
+barra.brasil.gov.br
+.googleapis.com
+.gstatic.com
+cdn.jsdelivr.net
+cdnjs.cloudflare.com
+cdn.dsgovserprodesign.estaleiro.serpro.gov.br

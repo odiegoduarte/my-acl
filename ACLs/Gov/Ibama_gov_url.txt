@@ -1,0 +1,4 @@
+servicos.ibama.gov.br
+js.hcaptcha.com
+.hcaptcha.com
+.gov.br
