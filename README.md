@@ -26,8 +26,12 @@ O objetivo é apenas manter uma base de referência, mantida de forma comunitár
 │   ├── 📁 CA
 │   │   ├── 📄 DigiCert_url.txt
 │   │   ├── 📄 GlobalSign_url.txt
+│   │   ├── 📄 Godaddy.txt
+│   │   ├── 📄 GoogleTrustServices_url.txt
 │   │   └── 📄 LetsEncrypts_url.txt
 │   ├── 📁 Comunicação
+│   │   ├── 📄 Discord_url.txt
+│   │   ├── 📄 Teams_url.txt
 │   │   ├── 📄 Whatsapp_url.txt
 │   │   └── 📄 Zoom_Meeting_url.txt
 │   ├── 📁 DVR-NVR
@@ -35,17 +39,27 @@ O objetivo é apenas manter uma base de referência, mantida de forma comunitár
 │   ├── 📁 Desenvolvimento
 │   │   └── 📄 Android_Studio_url.txt
 │   ├── 📁 E-commerce
+│   │   ├── 📄 Karcher_loja_url.txt
+│   │   ├── 📄 Karcher_site_url.txt
 │   │   └── 📄 Mercado_Livre_url.txt
+│   ├── 📁 ERP_Gestão
+│   │   └── 📄 Melvin_url.txt
 │   ├── 📁 File_Transfer
 │   │   └── 📄 Wetransfer_url.txt
 │   ├── 📁 Games
 │   │   └── 📄 Steam_url.txt
+│   ├── 📁 Gov
+│   │   ├── 📄 Ava_ana_gov_url.txt
+│   │   └── 📄 Ibama_gov_url.txt
 │   ├── 📁 IA
 │   │   ├── 📄 Antropic_claude.url.txt
 │   │   ├── 📄 AuraMind_url.txt
 │   │   ├── 📄 ChatGPT_url.txt
 │   │   ├── 📄 DeepSeek_url.txt
-│   │   └── 📄 Gemini_url.txt
+│   │   ├── 📄 Gemini_url.txt
+│   │   ├── 📄 Manus_url.txt
+│   │   ├── 📄 Perplexity_url.txt
+│   │   └── 📄 Qwen_url.txt
 │   ├── 📁 Redes_Sociais
 │   │   ├── 📄 Instagram_url.txt
 │   │   ├── 📄 Linkedin_url.txt
