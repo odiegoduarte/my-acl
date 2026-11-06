@@ -1,0 +1,2 @@
+crl.pki.goog
+ocsp.pki.goog

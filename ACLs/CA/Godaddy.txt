@@ -1,0 +1,3 @@
+certificates.godaddy.com
+crl.godaddy.com
+ocsp.godaddy.com
