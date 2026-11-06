@@ -1,0 +1,15 @@
+manus.im
+.manus.im
+.manuscdn.com
+challenges.cloudflare.com #Captcha
+accounts.google.com #Login Google
+.googleusercontent.com #Login Google
+.gstatic.com #Login Google
+login.microsoftonline.com #Login Microsoft
+.msftauth.net #Login Microsoft
+.msauth.net #Login Microsoft
+login.live.com #Login Microsoft
+apple.com #Login Apple
+appleid.apple.com #Login Apple
+.cdn-apple.com #Login Apple
+is1-ssl.mzstatic.com #Login Apple

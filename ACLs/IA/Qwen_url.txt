@@ -1,0 +1,10 @@
+chat.qwen.ai
+.qwen.ai
+.alicdn.com
+arms-retcode.aliyuncs.com
+cdnjs.cloudflare.com
+accounts.google.com #Login Google
+.gstatic.com #Login Google
+.githubassets.com #Login Github
+github.com #Login Github
+.githubusercontent.com #Login Github
