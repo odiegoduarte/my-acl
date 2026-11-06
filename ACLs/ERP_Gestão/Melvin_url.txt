@@ -1,0 +1,7 @@
+oimelvin.com
+.oimelvin.com
+.cloudfront.net
+cdn.jsdelivr.net
+.rdstation.com.br
+fonts.gstatic.com
+fonts.googleapis.com
