@@ -1,0 +1,2 @@
+crl.entrust.net
+ocsp.entrust.net

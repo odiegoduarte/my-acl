@@ -1,0 +1,11 @@
+.btgpactual.com
+.btgpactual.net
+explorer-api.btgpactual.com
+everest-explorer.btgpactual.com
+browser-intake-datadoghq.com
+cl-authorizer-prod.s3.amazonaws.com
+guiiamfe-prd.da.btgpactual.net
+cs-corban.btgpactual.com
+orquestracdn.btgpactual.com
+clarity.ms
+btg-collection-everest-prod.auth.sa-east-1.amazoncognito.com

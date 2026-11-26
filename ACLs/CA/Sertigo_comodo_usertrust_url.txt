@@ -1,0 +1,6 @@
+ocsp.sectigo.com
+crl.sectigo.com
+crl.comodoca.com
+ocsp.comodoca.com
+ocsp.usertrust.com
+crl.usertrust.com

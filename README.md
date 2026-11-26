@@ -22,13 +22,20 @@ O objetivo é apenas manter uma base de referência, mantida de forma comunitár
 │   ├── 📁 Auth_2FA
 │   │   └── 📄 Google_Auth.txt
 │   ├── 📁 Banco
+│   │   ├── 📄 BTG_Pactual_url.txt
 │   │   └── 📄 XP_Investimentos.url.txt
 │   ├── 📁 CA
+│   │   ├── 📄 Bundle_ca_url.txt
 │   │   ├── 📄 DigiCert_url.txt
+│   │   ├── 📄 Entrust_url.txt
 │   │   ├── 📄 GlobalSign_url.txt
 │   │   ├── 📄 Godaddy.txt
 │   │   ├── 📄 GoogleTrustServices_url.txt
-│   │   └── 📄 LetsEncrypts_url.txt
+│   │   ├── 📄 ICP-Brasil_url.txt
+│   │   ├── 📄 LetsEncrypts_url.txt
+│   │   ├── 📝 README.md
+│   │   ├── 📄 Sertigo_comodo_usertrust_url.txt
+│   │   └── 📄 Starfieldtech_url.txt
 │   ├── 📁 Comunicação
 │   │   ├── 📄 Discord_url.txt
 │   │   ├── 📄 Teams_url.txt
@@ -48,9 +55,10 @@ O objetivo é apenas manter uma base de referência, mantida de forma comunitár
 │   │   └── 📄 Wetransfer_url.txt
 │   ├── 📁 Games
 │   │   └── 📄 Steam_url.txt
-│   ├── 📁 Gov
+│   ├── 📁 Gov e Serviços Públicos
 │   │   ├── 📄 Ava_ana_gov_url.txt
-│   │   └── 📄 Ibama_gov_url.txt
+│   │   ├── 📄 Ibama_gov_url.txt
+│   │   └── 📄 RI_Digital_url.txt
 │   ├── 📁 IA
 │   │   ├── 📄 Antropic_claude.url.txt
 │   │   ├── 📄 AuraMind_url.txt
@@ -60,6 +68,11 @@ O objetivo é apenas manter uma base de referência, mantida de forma comunitár
 │   │   ├── 📄 Manus_url.txt
 │   │   ├── 📄 Perplexity_url.txt
 │   │   └── 📄 Qwen_url.txt
+│   ├── 📁 Office
+│   │   ├── 📄 Google_Docs_url.txt
+│   │   ├── 📄 Libre_Office_url.txt
+│   │   ├── 📄 Microsoft_Office_url.txt
+│   │   └── 📄 WPS_Office_url.txt
 │   ├── 📁 Redes_Sociais
 │   │   ├── 📄 Instagram_url.txt
 │   │   ├── 📄 Linkedin_url.txt
