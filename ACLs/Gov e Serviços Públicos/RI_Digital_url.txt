@@ -1,0 +1,14 @@
+ridigital.org.br
+fonts.googleapis.com
+.googleapis.com
+cdnjs.cloudflare.com
+fonts.gstatic.com
+code.jquery.com
+cdn-prod.securiti.ai
+.securiti.ai
+websdk.ujet.co
+.ccaiplatform.com
+s.go-mpulse.net
+cdn.rybena.com.br
+get.webpkiplugin.com
+idrc.registrocivil.org.br
