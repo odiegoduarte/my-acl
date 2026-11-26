@@ -1,0 +1,10 @@
+office.com
+m365.cloud.microsoft
+.cloud.microsoft
+templateservice.office.com
+officeapps.live.com
+cdn.office.net
+content.office.net
+osi.office.net
+officeclient.microsoft.com
+activation.sls.microsoft.com

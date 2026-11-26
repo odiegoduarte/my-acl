@@ -1,0 +1,5 @@
+documentfoundation.org
+.documentfoundation.org
+libreoffice.org
+.libreoffice.org
+update.libreoffice.org
