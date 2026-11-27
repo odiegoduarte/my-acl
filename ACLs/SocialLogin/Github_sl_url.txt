@@ -1,0 +1,4 @@
+.gstatic.com #Login Google
+.githubassets.com #Login Github
+github.com #Login Github
+.githubusercontent.com #Login Github

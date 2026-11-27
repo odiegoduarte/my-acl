@@ -1,0 +1,4 @@
+login.microsoftonline.com #Login Microsoft
+.msftauth.net #Login Microsoft
+.msauth.net #Login Microsoft
+login.live.com #Login Microsoft

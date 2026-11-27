@@ -1,0 +1,4 @@
+speedtest.net
+.ooklaserver.net
+cdn.ziffstatic.com
+r.cdnst.net

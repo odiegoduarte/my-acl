@@ -1,0 +1,4 @@
+apple.com #Login Apple
+appleid.apple.com #Login Apple
+.cdn-apple.com #Login Apple
+is1-ssl.mzstatic.com #Login Apple

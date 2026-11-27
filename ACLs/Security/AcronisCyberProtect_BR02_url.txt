@@ -1,0 +1,6 @@
+cloud.acronis.com
+br02-cloud.acronis.com
+branded-br02-cloud.acronis.com
+agents-br02-cloud.acronis.com
+rs-br02-cloud.acronis.com
+cloud-wr-br02.acronis.com

@@ -1,0 +1,3 @@
+.bet.br # ccTLD brasileiro
+.bet # gTLDs
+.cassino # gTLDs
