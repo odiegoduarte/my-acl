@@ -9,6 +9,13 @@ gateway.discord.gg
 .discordapp.net
 .discordstatus.com
 .discord.media
+.cloudfront.net
+.website-files.com
+cdn.prod.website-files.com
 discord-attachments-uploads-prd.storage.googleapis.com
+.onetrust.com
+googletagmanager.com
+.hcaptcha.com
+bc.googleusercontent.com
 .googleusercontent.com
 .googleapis.com

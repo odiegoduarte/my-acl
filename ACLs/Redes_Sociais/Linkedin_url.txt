@@ -4,5 +4,5 @@ static.licdn.com
 ponf.linkedin.com
 media.licdn.com
 .licdn.com
-accounts.google.com
-edge-auth.microsoft.com
+accounts.google.com #Login conta Google
+edge-auth.microsoft.com #Login conta Microsoft

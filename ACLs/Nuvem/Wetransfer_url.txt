@@ -1,6 +1,10 @@
-wetransfer.net
+we.tl
 wetransfer.com
 .wetransfer.com
 cdn.wetransfer.com
 snowplow.wetransfer.com
-api.lab.amplitude.com
+donny.wetransfer.com
+wetransfer.net
+.wetransfer.net
+bsp-proxy.wetransfer.net
+backgrounds.wetransfer.net

@@ -1,11 +1,11 @@
+netflix.ca
 netflix.com
 netflix.net
-netflix.ca
-nflximg.com
-nflxext.com
-nflxso.net
 nflxvideo.net
+nflximg.com
 nflximg.net
-nflxsearch.net
+nflxso.net
+nflxext.com
 netflixinvestor.com
 netflixtechblog.com
+nflxsearch.net

@@ -1,19 +1,9 @@
-# ACLs - Nuvem
+# ACLs - Comunicação
 
-## Dropbox
+## Zoom
 
-Domínios e URLs oficiais do Dropbox necessários para liberar o acesso. A lista completa está no arquivo `Dropbox_url.txt` desta pasta.
-
-### 📚 Referências
-
-- [Domínios oficiais do Dropbox](https://help.dropbox.com/pt-br/security/official-domains)
-- [Dropbox desktop permissões](https://help.dropbox.com/pt-br/installs/configuring-firewall)
-
-
-## WeTransfer
-
-O WeTransfer usa HTTPS (porta 443) para comunicação segura e o protocolo QUIC. O QUIC é a camada de transporte do HTTP/3 e opera sobre UDP seu firewall deve permitir tráfego TCP e UDP na porta 443.
+A ACL do Zoom inclui as URLs do serviço e das CAs (Autoridades Certificadoras) necessárias para que o Zoom Client funcione.
 
 ### 📚 Referências
 
-- [Lista de domínios WeTransfer](https://wetransfer.com/help-center/troubleshooting/configure-firewall)
+- [Zoom URLs e IPs (KB0060557)](https://support.zoom.com/hc/pb/article?id=zm_kb&sysparm_article=KB0060557)
