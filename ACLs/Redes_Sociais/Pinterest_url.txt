@@ -1,0 +1,11 @@
+pinterest.com
+.pinimg.com
+recaptcha.net
+pinterest.info
+pinterest.net
+.pinterest.com
+.gstatic.com
+.ctfassets.net
+accounts.google.com #Login Google
+google.com #Login Google
+connect.facebook.net #Login Facebook

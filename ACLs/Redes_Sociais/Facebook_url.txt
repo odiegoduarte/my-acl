@@ -1,0 +1,6 @@
+facebook.com
+static.xx.fbcdn.net
+fbcdn.net
+.facebook.com
+edge-chat.facebook.com
+web-chat-e2ee.facebook.com

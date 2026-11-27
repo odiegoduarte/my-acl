@@ -1,0 +1,8 @@
+uber.com
+.uber.com
+cn-geo1.uber.com
+cn-dc1.uber.com
+cn-dc1.uber.com
+oojoovae.org
+.oojoovae.org
+cn-dc1.oojoovae.org
