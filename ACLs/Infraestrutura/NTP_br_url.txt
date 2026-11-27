@@ -1,0 +1,10 @@
+a.st1.ntp.br
+c.st1.ntp.br
+d.st1.ntp.br
+e.st1.ntp.br
+a.ntp.br
+b.ntp.br
+c.ntp.br
+gps.nu.ntp.br
+gps.jd.ntp.br
+gps.ce.ntp.br

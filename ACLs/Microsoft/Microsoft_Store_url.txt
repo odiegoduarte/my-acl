@@ -1,0 +1,16 @@
+client.wns.windows.com
+s-microsoft.com
+.s-microsoft.com
+msauth.net
+msftauth.net
+azureedge.net
+login.live.com
+account.live.com
+images-eds-ssl.xboxlive.com
+.microsoft.com
+mp.microsoft.com
+storeedgefd.dsx.mp.microsoft.com
+slscr.update.microsoft.com
+store-images.microsoft.com
+login.microsoft.com
+cem.services.microsoft.com
